@@ -1,0 +1,67 @@
+div#box1{
+    position: absolute;
+    top: 100pt;
+    left: 100pt;
+    height: 100pt;
+    width: 600pt;
+    border: 2pt solid black;
+    background-color: rgb(60, 186, 26);
+
+}
+
+div#box2{
+    position: absolute;
+    top: 220pt;
+    left: 100pt;
+    height: 300pt;
+    width: 200pt;
+    border: 2pt solid black;
+    background-color: rgb(60, 186, 26);
+
+}
+
+div#box3{
+    position: absolute;
+    top: 220pt;
+    left: 320pt;
+    height: 300pt;
+    width: 380pt;
+    border: 2pt solid black;
+    background-color: rgb(60, 186, 26);
+
+}
+
+div#box4 {
+
+    position:absolute;
+    top: 240pt;
+    left: 350pt;
+    height: 60pt;
+    width: 100pt;
+    border: 2pt dotted black;
+    background-color: aqua;
+}
+
+div#box5 {
+
+    position:absolute;
+    top: 290pt;
+    left: 400pt;
+    height: 60pt;
+    width: 100pt;
+    border: 2pt dotted black;
+    background-color: green;
+
+}
+
+div#box6 {
+
+    position:absolute;
+    top: 240pt;
+    left: 480pt;
+    height: 60pt;
+    width: 100pt;
+    border: 2pt dotted black;
+    background-color: crimson;
+
+}
