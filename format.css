@@ -36,7 +36,7 @@ div#box3 {
 }
 
 nav ul{
-       width: 10em;
+       width: 15em;
        margin: 0;
        padding: 0.2em 0.8em 0.8em;
        border: 1px solid black;
@@ -53,11 +53,12 @@ nav a,
 nav span,
 nav h2 {
         display: block;
-        padding: 0.4em;
+        padding: 0.2em;
+        text-decoration: none;
         text-decoration: none;
         font-weight: bold;
         border: 1px solid blue;
-        border-radius: 30px 15px 30px 15px;
+        border-radius: 32px 50px 30px 15px;
         box-shadow: 0 5px 10px white inset;
         color: gold;
         background-color: royalblue;
