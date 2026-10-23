@@ -35,6 +35,14 @@ div#box3 {
 
 }
 
+nav ul{
+       width: 10em;
+       margin: 0;
+       padding: 0.2em 0.8em 0.8em;
+       border: 1px solid black;
+       background-color: silver;
+}
+
 nav li {
         list-style: none;
         margin: 0.4em;
@@ -48,7 +56,22 @@ nav h2 {
         padding: 0.4em;
         text-decoration: none;
         font-weight: bold;
+        border: 1px solid blue;
+        border-radius: 30px 15px 30px 15px;
+        box-shadow: 0 5px 10px white inset;
+        color: gold;
+        background-color: royalblue;
+        background-image: linear-gradient(to top, red, lightblue);
 
+}
+
+nav a:focus,
+nav a:hover,
+nav a:active,
+nav span{
+        color: royalblue;
+        background-color: gold;
+        border-color: gold;
 }
 
 div#box4 {
