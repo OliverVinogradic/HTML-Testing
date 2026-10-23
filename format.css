@@ -35,6 +35,22 @@ div#box3 {
 
 }
 
+nav li {
+        list-style: none;
+        margin: 0.4em;
+        padding: 0;
+}
+
+nav a,
+nav span,
+nav h2 {
+        display: block;
+        padding: 0.4em;
+        text-decoration: none;
+        font-weight: bold;
+
+}
+
 div#box4 {
 
     position:absolute;
