@@ -1,0 +1,10 @@
+div#Box2{
+    position: absolute;
+    top: 100pt;
+    left: 100pt;
+    height: 300pt;
+    width: 300pt;
+    border: 2pt solid black;
+    background-color: blueviolet;
+
+}
