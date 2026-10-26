@@ -1,10 +1,35 @@
+div#Box1{
+    position: absolute;
+    top: 50pt;
+    left: 230pt;
+    height: 100pt;
+    width:  1000pt;
+    border: 2pt solid black;
+    background-color: bisque;
+}
+
+
+
+
+
 div#Box2{
     position: absolute;
-    top: 100pt;
-    left: 100pt;
-    height: 300pt;
-    width: 300pt;
+    top: 160pt;
+    left: 230pt;
+    height: 470pt;
+    width: 200pt;
     border: 2pt solid black;
     background-color: blueviolet;
 
+}
+
+
+div#Box3{
+    position: absolute;
+    top: 160pt;
+    left: 230pt;
+    height: 470pt;
+    width: 200pt;
+    border: 2pt solid black;
+    background-color: bisque;
 }
