@@ -1,0 +1,11 @@
+div#Box1{
+    position: absolute;
+    top: 20pt;
+    height: 100pt;
+    width: 300pt;
+    border-color: black;
+    background-color: bisque;
+    border: 2pt solid black;
+    
+
+}
